@@ -1,0 +1,31 @@
+{
+  "name": "builder",
+  "version": "0.0.1",
+  "description": "Builder is a front-end template for building adaptable sites.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filip Po",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "del": "^2.2.2",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-pug": "^3.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.1.2"
+  },
+  "dependencies": {
+    "slick-carousel": "^1.6.0"
+  }
+}
